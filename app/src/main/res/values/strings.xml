@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">锁屏单词？通知单词！</string>
+    <string name="word_channel_name">通知记单词</string>
+    <string name="start_service_hint">现在你可以享受锁屏单词了</string>
+    <string name="app_green_hint">锁屏单词不会增加耗电，也几乎不消耗流量</string>
+
+    <string name="notification_title">今天也要加油呀</string>
+    <string name="next_word">下一个</string>
+    <string name="cannot_get_word">暂时找不到单词呢</string>
+</resources>

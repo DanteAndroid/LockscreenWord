@@ -9,7 +9,6 @@ plugins {
 
 android {
     compileSdk 31
-
     defaultConfig {
         applicationId "com.danteandroi.lockscreenword"
         minSdk 21
